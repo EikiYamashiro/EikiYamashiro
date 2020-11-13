@@ -1,6 +1,6 @@
 <strong>
-<h1 align="center"> Oi! Meu nome é Sophia Kerber 👋 </h1>
-<h3 align="center"> Estudo engenharia de computação</h3>
+<h1 align="center"> Olá! Meu nome é Eiki Yamashiro 👋 </h1>
+<h3 align="center"> Estudo Engenharia de Computação no Insper.</h3>
 </strong>
 <br />
 
@@ -11,7 +11,6 @@
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=42759C)
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=DD2150)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
 
 
@@ -19,7 +18,7 @@
 
 
 <ul>
-  <li>🤖 Me interesso muito por <strong>ROBÓTICA</strong> e <strong>MACHINE LEARNING</strong></li>
+  <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
   <li>🧠 Atualmente estou aprendendo MQL5</li>
   <li>:coffee: Não vivo sem café...</li>
 </ul>
