@@ -14,9 +14,6 @@
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
 
 
-
-
-
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
   <li>🧠 Atualmente estou aprendendo MQL5</li>
