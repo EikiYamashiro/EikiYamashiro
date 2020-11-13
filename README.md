@@ -20,14 +20,10 @@
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
   <li>🧠 Atualmente estou aprendendo MQL5</li>
-  <li>:coffee: Não vivo sem café...</li>
+  <li>:video_game: Gosto muito de Jogos</li>
 </ul>
 
 ### Projetos em desenvolvimento
-
-<a href="https://github.com/CEDipEngineering/DNDHelper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CEDipEngineer&repo=DNDHelper" />
-</a>
 
 <a href="https://github.com/EikiYamashiro/AM_MODULATION">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=AM_MODULATION" />
