@@ -22,7 +22,7 @@
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
   <li>🧠 Atualmente estou aprendendo Keras</li>
   <li>:video_game: Gosto muito de Jogos</li>
-  <li>:rice: Não vivo sem Gohan...</li>
+  <li>:rice: Não vivo sem Shirô Gohan...</li>
 </ul>
 
 ### Projetos em desenvolvimento
