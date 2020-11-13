@@ -16,7 +16,7 @@
 
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
-  <li>🧠 Atualmente estou aprendendo MQL5</li>
+  <li>🧠 Atualmente estou aprendendo Keras</li>
   <li>:video_game: Gosto muito de Jogos</li>
 </ul>
 
