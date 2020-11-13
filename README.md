@@ -13,6 +13,10 @@
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&javascriptColor=white&color=000000)
+![](https://img.shields.io/badge/-Gatsby-informational?style=flat&logo=Gatsby&gatsbyColor=white&color=d6b6d9)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&reactColor=white&color=dfe6e8)
+![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL&vhdlColor=white&color=dfe6e8)
+![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&c=white&color=dfe6e8)
 
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
