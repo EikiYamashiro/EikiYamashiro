@@ -35,6 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
 </a>
 
+<a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
+</a>
+
 ### Projetos que dão muito orgulho
 
 <a href="https://github.com/EikiYamashiro/DataScience-Project">
