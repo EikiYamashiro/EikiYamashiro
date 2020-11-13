@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=42759C)
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
-![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&javascriptColor=white&color=f1f57f)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&javascriptColor=white&color=f1f57f)
 
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
