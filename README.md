@@ -45,6 +45,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Neural_Network_Hello_World" />
 </a>
 
+<a href="https://github.com/EikiYamashiro/CNN_Cats_Dogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=CNN_Cats_Dogs" />
+</a>
 
 <br />
 <br />
