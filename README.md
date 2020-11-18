@@ -35,23 +35,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
 </a>
 
+### Projetos que dão muito orgulho
+
 <a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
 </a>
 
-### Projetos que dão muito orgulho
-
-<a href="https://github.com/EikiYamashiro/DataScience-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=DataScience-Project" />
+<a href="https://github.com/EikiYamashiro/Neural_Network_Hello_World">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Neural_Network_Hello_World" />
 </a>
 
-<a href="https://github.com/EikiYamashiro/JOTA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=JOTA" />
-</a>
-
-<a href="https://github.com/EikiYamashiro/CDADOS_PROJETO_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=CDADOS_PROJETO_3" />
-</a>
 
 <br />
 <br />
