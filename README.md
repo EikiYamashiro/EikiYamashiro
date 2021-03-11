@@ -27,8 +27,9 @@
 
 ### Projetos em desenvolvimento
 
-
-
+<a href="https://github.com/EikiYamashiro/StockPricePrediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=StockPricePrediction" />
+</a>
 <a href="https://github.com/EikiYamashiro/IC_ComputerVision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
 </a>
