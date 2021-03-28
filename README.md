@@ -36,6 +36,14 @@
 
 ### Projetos que dão muito orgulho
 
+<a href="https://github.com/EikiYamashiro/StockPricePrediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=StockPricePrediction" />
+</a>
+
+<a href="https://github.com/EikiYamashiro/Efficient_Frontier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Efficient_Frontier" />
+</a>
+
 <a href="https://github.com/EikiYamashiro/AM_MODULATION">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=AM_MODULATION" />
 </a>
