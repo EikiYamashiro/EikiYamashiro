@@ -22,19 +22,43 @@
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
   <li>🧠 Atualmente estou aprendendo Keras</li>
   <li>:video_game: Gosto muito de Jogos</li>
-  <li>:rice: Não vivo sem Shirô Gohan...</li>
+  <li>:rice: Não vivo sem Shiro Gohan...</li>
 </ul>
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/EikiYamashiro/StockPricePrediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=StockPricePrediction" />
+<a href="https://github.com/EikiYamashiro/hft_fpga_acceleration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=hft_fpga_acceleration" />
 </a>
+
+<a href="https://github.com/EikiYamashiro/bollinger_bands">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=bollinger_bands" />
+</a>
+
+### Projetos que dão muito orgulho
+
+
+<a href="https://github.com/EikiYamashiro/IQA_calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IQA_calculator" />
+</a>
+
+<a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
+</a>
+
+<a href="https://github.com/EikiYamashiro/CNN_Cats_Dogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=CNN_Cats_Dogs" />
+</a>
+
 <a href="https://github.com/EikiYamashiro/IC_ComputerVision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
 </a>
 
-### Projetos que dão muito orgulho
+### Projetos Simples, para consulta :)
+
+<a href="https://github.com/EikiYamashiro/Neural_Network_Hello_World">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Neural_Network_Hello_World" />
+</a>
 
 <a href="https://github.com/EikiYamashiro/StockPricePrediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=StockPricePrediction" />
@@ -46,18 +70,6 @@
 
 <a href="https://github.com/EikiYamashiro/AM_MODULATION">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=AM_MODULATION" />
-</a>
-
-<a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
-</a>
-
-<a href="https://github.com/EikiYamashiro/Neural_Network_Hello_World">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Neural_Network_Hello_World" />
-</a>
-
-<a href="https://github.com/EikiYamashiro/CNN_Cats_Dogs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=CNN_Cats_Dogs" />
 </a>
 
 <br />
