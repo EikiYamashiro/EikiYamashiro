@@ -27,20 +27,15 @@
 
 ### Projetos em desenvolvimento
 
-<a href="https://github.com/EikiYamashiro/hft_fpga_acceleration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=hft_fpga_acceleration" />
-</a>
-
 <a href="https://github.com/EikiYamashiro/bollinger_bands">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=bollinger_bands" />
 </a>
 
-### Projetos que dão muito orgulho
-
-
-<a href="https://github.com/EikiYamashiro/IQA_calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IQA_calculator" />
+<a href="https://github.com/EikiYamashiro/hft_fpga_acceleration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=hft_fpga_acceleration" />
 </a>
+
+### Projetos que dão muito orgulho
 
 <a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
@@ -53,6 +48,11 @@
 <a href="https://github.com/EikiYamashiro/IC_ComputerVision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
 </a>
+
+<a href="https://github.com/EikiYamashiro/IQA_calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IQA_calculator" />
+</a>
+
 
 ### Projetos Simples, para consulta :)
 
