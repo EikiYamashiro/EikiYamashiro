@@ -56,6 +56,11 @@
 
 ### Projetos Simples, para consulta :)
 
+<a href="https://github.com/EikiYamashiro/momentum_strategy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=momentum_strategy" />
+</a>
+
+
 <a href="https://github.com/EikiYamashiro/Neural_Network_Hello_World">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Neural_Network_Hello_World" />
 </a>
