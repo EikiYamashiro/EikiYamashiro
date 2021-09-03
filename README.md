@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&c=white&color=e86a64)
 
 <ul>
-  <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Visão Computacional.</strong></li>
+  <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Computação Embarcada.</strong></li>
   <li>🧠 Atualmente estou aprendendo Keras</li>
   <li>:video_game: Gosto muito de Jogos</li>
   <li>:rice: Não vivo sem Shiro Gohan...</li>
