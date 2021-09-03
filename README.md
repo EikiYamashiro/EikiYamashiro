@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Olá! Meu nome é Eiki Yamashiro :v: </h1>
-<h3 align="center"> Estou no 5º Semestre de Engenharia de Computação no Insper.</h3>
+<h3 align="center"> Estou no 6º Semestre de Engenharia de Computação no Insper.</h3>
 </strong>
 <br />
 
