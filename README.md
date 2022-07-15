@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Olá! Meu nome é Eiki Yamashiro :v: </h1>
-<h3 align="center"> Estou no 6º Semestre de Engenharia de Computação no Insper.</h3>
+<h3 align="center"> Estou no 8º Semestre de Engenharia de Computação no Insper.</h3>
 </strong>
 <br />
 
@@ -20,7 +20,7 @@
 
 <ul>
   <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Computação Embarcada.</strong></li>
-  <li>🧠 Atualmente estou aprendendo Keras</li>
+  <li>🧠 Atualmente estou aprendendo Reinforcement Learning</li>
   <li>:video_game: Gosto muito de Jogos</li>
   <li>:rice: Não vivo sem Shiro Gohan...</li>
 </ul>
