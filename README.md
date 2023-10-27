@@ -22,6 +22,7 @@
   <li>🤖 Artificial Intelligence Engineer at Banco ABC Brasil</li>
   <li>🧠 Pursuing a Master's Degree in Eletronics and Computer Engineering</li>
 </ul>
+
 ### Projects
 <a href="https://github.com/EikiYamashiro/libras_cnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=libras_cnn" />
