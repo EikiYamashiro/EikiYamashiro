@@ -1,6 +1,6 @@
 <strong>
-<h1 align="center"> Olá! Meu nome é Eiki Yamashiro :v: </h1>
-<h3 align="center"> Estou no 8º Semestre de Engenharia de Computação no Insper.</h3>
+<h1 align="center"> Hey! I'm Eiki :v: </h1>
+<h3 align="center"> Computer Engineer</h3>
 </strong>
 <br />
 
@@ -19,14 +19,10 @@
 ![](https://img.shields.io/badge/-C-informational?style=flat&logo=C&c=white&color=e86a64)
 
 <ul>
-  <li>🤖 Me interesso muito por <strong>Ciência dos Dados</strong>, <strong>Machine Learning</strong> e <strong>Computação Embarcada.</strong></li>
-  <li>🧠 Atualmente estou aprendendo Reinforcement Learning</li>
-  <li>:video_game: Gosto muito de Jogos</li>
-  <li>:rice: Não vivo sem Shiro Gohan...</li>
+  <li>🤖 Artificial Intelligence Engineer at Banco ABC Brasil</li>
+  <li>🧠 Pursuing a Master's Degree in Eletronics and Computer Engineering</li>
 </ul>
-
-### Projetos em desenvolvimento
-
+### Projects
 <a href="https://github.com/EikiYamashiro/libras_cnn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=libras_cnn" />
 </a>
@@ -34,8 +30,6 @@
 <a href="https://github.com/EikiYamashiro/hft_fpga_acceleration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=hft_fpga_acceleration" />
 </a>
-
-### Projetos que dão muito orgulho
 
 <a href="https://github.com/EikiYamashiro/Games_Sales_Regression">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=Games_Sales_Regression" />
@@ -54,7 +48,7 @@
 </a>
 
 
-### Projetos Simples, para consulta :)
+### Simple Projects 
 
 <a href="https://github.com/EikiYamashiro/momentum_strategy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=momentum_strategy" />
